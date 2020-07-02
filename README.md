@@ -1,4 +1,4 @@
-# wordapp
+# wordsapp
 
 Simple fundamental app. Words Generator.
 

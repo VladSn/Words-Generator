@@ -1,6 +1,6 @@
 # wordapp
 
-A new Flutter application.
+Simple fundamental app. Words Generator.
 
 ## Getting Started
 

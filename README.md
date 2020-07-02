@@ -1,6 +1,6 @@
 # wordsapp
 
-Simple fundamental app. Words Generator.
+Simple fundamental app. Words Generator. Learning project.
 
 ## Getting Started
 
